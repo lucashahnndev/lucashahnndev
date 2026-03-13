@@ -8,7 +8,7 @@ Atuo conectando software, infraestrutura e operação em ambientes reais, com fo
 
 - Segurança da informação aplicada a ambientes corporativos
 - Administração de redes, servidores, virtualização e sistemas operacionais
-- Integração de sistemas e desenvolvimento de APIs/serviços
+- Integração de sistemas e desenvolvimento de APIs e serviços
 - Automação de rotinas operacionais com scripts
 - Implantação e suporte de controle de acesso (LPR, leitura facial e sistemas correlatos)
 - Projetos de voz e telefonia (VoIP, SIP e interfonia analógica)
@@ -40,7 +40,7 @@ Atuo conectando software, infraestrutura e operação em ambientes reais, com fo
 
 ## Foco de engenharia
 
-- Desenho de soluções orientadas a operação real
+- Desenho de soluções orientadas à operação real
 - Integração entre infraestrutura, aplicações e processos
 - Observabilidade e monitoramento para reduzir falhas recorrentes
 - Estruturação de fluxos técnicos com automação e critérios de confiabilidade operacional
@@ -52,20 +52,34 @@ Atuo conectando software, infraestrutura e operação em ambientes reais, com fo
 - Serviços de rede, comunicação e infraestrutura crítica
 - Backends e APIs para integração entre sistemas
 
-## Exploração técnica atual
+## Stack principal
 
-- Arquiteturas de agentes para automação operacional
-- Automação assistida por IA aplicada a fluxos técnicos
-- Linguagem Go para ferramentas de infraestrutura
-- Redes neurais aplicadas à visão computacional
-- Sistemas de monitoramento em tempo real
+### Linguagens e automação
 
-## Stack (curada)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-**Linguagens e dados:** Python, JavaScript, PHP, SQL, BAT Script  
-**Infraestrutura e sistemas:** Linux, Windows Server, Apache, ambientes de virtualização/VMs  
-**Integração e protocolos:** APIs REST, WebSockets, SMTP/IMAP/POP3, DNS, NAT, firewall, RTSP  
-**Visão computacional e vídeo:** OpenCV, YOLO, integração de vídeo para LPR/leitura facial e monitoramento
+### Infraestrutura e sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Virtualization-4B8BBE?style=flat-square&logo=vmware&logoColor=white" alt="Virtualization" />
+</p>
+
+### Visão computacional e integração
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=github&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/RTSP-2C3E50?style=flat-square&logo=protocolsdotio&logoColor=white" alt="RTSP" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
 
 ## GitHub
 
