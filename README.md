@@ -1,16 +1,36 @@
 # Lucas Hahnn
-👋 Hello, I'm Lucas Hahnn
-<!-- ![capa](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/lucas%20hahnn.png) -->
 
-![python](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/python.png)![Javascript](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/javascript.png)![PHP](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/php.png)![HTML](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/html.png)![CSS](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/css.png)![Apache](https://github.com/lucashahnndev/Lucas-Hahnn-DEV/blob/main/image/apache.png)
-<!---
-Lucas-Hahnn-DEV/Lucas-Hahnn-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashahnndev&layout=pie)](https://github.com/lucashahnndev/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashahnndev)](https://github.com/lucashahnndev/github-readme-stats)
+Desenvolvedor Web focado em criar soluções práticas com **Python, JavaScript e PHP**.
 
+## 👨‍💻 O que eu construo
+- Sistemas web para resolver problemas reais de negócio.
+- APIs e automações para reduzir tarefas manuais.
+- Interfaces simples, objetivas e com foco em usabilidade.
 
-![Lucas Hahnn GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashahnndev&show_icons=true&theme=transparent)
+## 🧭 Foco atual
+- Evoluir arquitetura e qualidade de código.
+- Fortalecer projetos com impacto real para portfólio.
+- Aprofundar boas práticas de backend e integrações.
 
-   
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucashahnndev)](https://github.com/lucashahnndev/github-readme-stats)
+## 🛠️ Stack principal
+<p align="left">
+  <img src="./image/python.png" alt="Python" />
+  <img src="./image/javascript.png" alt="JavaScript" />
+  <img src="./image/php.png" alt="PHP" />
+  <img src="./image/html.png" alt="HTML" />
+  <img src="./image/css.png" alt="CSS" />
+  <img src="./image/apache.png" alt="Apache" />
+</p>
+
+## 📊 GitHub em números
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucashahnndev&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashahnndev&layout=compact" alt="Top langs" />
+</p>
+
+## 🤝 Contato
+Se quiser conversar sobre projetos, freelas ou oportunidades, me chama aqui no GitHub.
+
+<!--
+Lucas-Hahnn-DEV/Lucas-Hahnn-DEV is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
